@@ -152,7 +152,7 @@ with c1:
         values="POURCENTAGE",
         names="CATEGORIE",
         hole=0.6,
-        color_discrete_sequence=["#1D9E75", "#D3D1C7"]
+        color_discrete_sequence=["#1D9E75", "#378ADD"]
     )
     fig_donut.update_traces(textinfo="percent+label")
     fig_donut.update_layout(showlegend=False, margin=dict(t=20, b=20))

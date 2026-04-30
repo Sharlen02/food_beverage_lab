@@ -40,7 +40,8 @@ L’objectif est de mettre en place une **chaîne data complète** :
 food_beverage_lab/
 │
 ├── ml/
-│   └── phase3_ML.ipynb
+│   ├── phase3_ML.ipynb
+│   └── phase3_ML_marketing.ipynb
 │
 ├── notebooks/
 │   ├── phase2-1_Exploration.ipynb
@@ -61,7 +62,7 @@ food_beverage_lab/
 │       └── 5_Features_ML.py
 │
 └── README.md
-
+```
 
 ***
 
