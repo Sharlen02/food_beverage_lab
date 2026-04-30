@@ -1,16 +1,12 @@
-Voici l’analyse **structurée en Markdown**, prête à être utilisée telle quelle dans un document stratégique, une slide ou un rapport exécutif.
-
 ***
 
-# 📊 Analyse Data → Business → Marketing
-
-**AnyCompany Food & Beverage – 2025**
+**AnyCompany Food & Beverage - 2025**
 
 ***
 
 ## 1. Dépendance critique aux promotions
 
-### 🔢 Constats clés (Data)
+###  Constats clés (Data)
 
 *   **\~80 % du chiffre d’affaires généré sous promotion**
 *   **Faible volume de transactions (984)** mais **panier moyen très élevé (\~5 009 €)**
@@ -20,13 +16,13 @@ Voici l’analyse **structurée en Markdown**, prête à être utilisée telle q
     *   Organic Beverages : **≈ 14 %**
 *   Fréquence promotionnelle élevée (jusqu’à **41 promotions** par catégorie)
 
-### 🧠 Interprétation métier
+###  Interprétation métier
 
 *   Le chiffre d’affaires est **structurellement dépendant du levier prix**
 *   Perte du positionnement premium historique
 *   Les ventes organiques ne suffisent plus à soutenir la performance
 
-### 🎯 Impact potentiel sur la stratégie marketing
+###  Impact potentiel sur la stratégie marketing
 
 *   Risque majeur avec la **réduction de 30 % du budget marketing**
 *   Priorité à :
@@ -38,7 +34,7 @@ Voici l’analyse **structurée en Markdown**, prête à être utilisée telle q
 
 ## 2. Mauvaise allocation du budget marketing
 
-### 🔢 Constats clés
+###  Constats clés
 
 *   Budget marketing total : **\~1,27 Md€**
 *   **5 000 campagnes** (forte dispersion)
@@ -49,13 +45,13 @@ Voici l’analyse **structurée en Markdown**, prête à être utilisée telle q
     *   Social Media
     *   TV / Radio (ROI plus faible)
 
-### 🧠 Interprétation métier
+###  Interprétation métier
 
 *   Arbitrage budgétaire basé sur l’historique plutôt que sur la performance
 *   Rendement marginal décroissant des campagnes massives
 *   Sous-investissement des canaux les plus rentables
 
-### 🎯 Impact marketing
+###  Impact marketing
 
 *   Concentrer les budgets sur :
     *   Content Marketing (éducation, premium, crédibilité)
@@ -67,7 +63,7 @@ Voici l’analyse **structurée en Markdown**, prête à être utilisée telle q
 
 ## 3. Déséquilibres régionaux dans l’effort promotionnel
 
-### 🔢 Constats clés
+###  Constats clés
 
 *   Régions les plus performantes en CA :
     *   North America
@@ -77,12 +73,12 @@ Voici l’analyse **structurée en Markdown**, prête à être utilisée telle q
 *   Asia / MENA :
     *   Promotions plus fortes (\~16 %) sans performance équivalente
 
-### 🧠 Interprétation métier
+###  Interprétation métier
 
 *   Les marchés matures n’ont pas besoin d’un fort levier prix
 *   Les promotions excessives ne compensent pas des problèmes structurels
 
-### 🎯 Impact marketing
+###  Impact marketing
 
 *   Stratégie différenciée par région :
     *   Marchés matures → branding, fidélité, expérience
@@ -93,7 +89,7 @@ Voici l’analyse **structurée en Markdown**, prête à être utilisée telle q
 
 ## 4. Forte valeur produit, expérience post-achat fragile
 
-### 🔢 Constats clés
+###  Constats clés
 
 *   Satisfaction globale élevée : **4,38 / 5**
 *   **80 %** des produits jugés positifs
@@ -104,13 +100,13 @@ Voici l’analyse **structurée en Markdown**, prête à être utilisée telle q
     *   Nombreux cas “Escalated”
     *   Satisfaction parfois < 3 (support, statut de commande)
 
-### 🧠 Interprétation métier
+###  Interprétation métier
 
 *   Excellente qualité produit
 *   Rupture dans l’expérience client après l’achat
 *   Risque de désalignement promesse ↔ réalité
 
-### 🎯 Impact marketing
+###  Impact marketing
 
 *   Activer davantage :
     *   Avis clients
@@ -124,7 +120,7 @@ Voici l’analyse **structurée en Markdown**, prête à être utilisée telle q
 
 ## 5. Cœur de clientèle premium incompatible avec une guerre des prix
 
-### 🔢 Constats clés
+###  Constats clés
 
 *   **\~72 % de clients à hauts revenus**
 *   Segments dominants :
@@ -132,7 +128,7 @@ Voici l’analyse **structurée en Markdown**, prête à être utilisée telle q
     *   60+
 *   Faible proportion de clients low income
 
-### 🧠 Interprétation métier
+###  Interprétation métier
 
 *   La compétition par le prix contre les D2C est perdue d’avance
 *   Les clients achètent pour :
@@ -141,7 +137,7 @@ Voici l’analyse **structurée en Markdown**, prête à être utilisée telle q
     *   La fiabilité
     *   La disponibilité
 
-### 🎯 Impact marketing
+###  Impact marketing
 
 *   Recentrage stratégique sur :
     *   Un positionnement premium assumé
@@ -152,19 +148,19 @@ Voici l’analyse **structurée en Markdown**, prête à être utilisée telle q
 
 ## 6. Frictions logistiques qui dégradent le ROI marketing
 
-### 🔢 Constats clés
+###  Constats clés
 
 *   5 % des références en rupture imminente
 *   10 % à réapprovisionner
 *   Délai moyen de livraison : **7,5 jours**
 *   **231 zones à impact critique**
 
-### 🧠 Interprétation métier
+###  Interprétation métier
 
 *   Décorrélation marketing ↔ supply chain
 *   Campagnes parfois lancées sur des produits à risque
 
-### 🎯 Impact marketing
+###  Impact marketing
 
 *   Synchronisation impérative marketing / logistique
 *   Aucune campagne sur produits instables
@@ -172,14 +168,8 @@ Voici l’analyse **structurée en Markdown**, prête à être utilisée telle q
 
 ***
 
-## 🧠 Synthèse exécutive
+##  Synthèse exécutive
 
 > **AnyCompany ne perd pas de parts de marché à cause de ses produits, mais à cause d’une stratégie marketing trop dépendante des promotions, mal ciblée, mal alignée avec son cœur de clientèle premium et insuffisamment connectée aux réalités opérationnelles.**
 
 ***
-
-Si tu le souhaites, je peux maintenant :
-
-*   Construire une **roadmap marketing data-driven sur 12 mois**
-*   Proposer un **plan d’arbitrage après –30 % de budget**
-*   Identifier les **quick wins 30 / 60 / 90 jours**
