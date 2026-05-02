@@ -10,7 +10,7 @@ Projet réalisé par D'ALMEIDA Morènikè Sharlen, Bientakonne KARAMBIRI, Stephe
 
 # 🥤 Food & Beverage Lab – Data Analytics & ML
 
-## 📌 Présentation du projet
+## Présentation du projet
 
 **Food & Beverage Lab** est un projet de data analytics et de machine learning construit autour d’un cas d’usage métier réaliste :  
 un fabricant de produits alimentaires et de boissons (AnyCompany) confronté à une **baisse significative des ventes** et à une **réduction de 30 % du budget marketing**.
@@ -24,7 +24,7 @@ L’objectif est de mettre en place une **chaîne data complète** :
 
 ***
 
-## 🎯 Objectifs
+## Objectifs
 
 *   Centraliser et structurer des données hétérogènes (CSV, JSON)
 *   Nettoyer et fiabiliser les données (couche **Silver**)
@@ -34,7 +34,7 @@ L’objectif est de mettre en place une **chaîne data complète** :
 
 ***
 
-## 🗂️ Structure du projet
+## Structure du projet
 
 ```text
 food_beverage_lab/
@@ -66,9 +66,9 @@ food_beverage_lab/
 
 ***
 
-## 🧱 Architecture Data
+## Architecture Data
 
-### 1️⃣ Couche Bronze – Ingestion des données
+### 1 Couche Bronze – Ingestion des données
 
 *   Chargement depuis un **bucket S3** (CSV et JSON)
 *   Création des tables brutes dans Snowflake
@@ -79,7 +79,7 @@ food_beverage_lab/
 
 ***
 
-### 2️⃣ Couche Silver – Nettoyage & standardisation
+### 2️ Couche Silver – Nettoyage & standardisation
 
 *   Suppression des doublons
 *   Normalisation des chaînes (`TRIM`, `LOWER`)
@@ -91,7 +91,7 @@ food_beverage_lab/
 
 ***
 
-## 📊 Analyses & Notebooks
+## Analyses & Notebooks
 
 Les notebooks Jupyter permettent une montée progressive en complexité :
 
@@ -109,7 +109,7 @@ Les notebooks Jupyter permettent une montée progressive en complexité :
 
 ***
 
-## 🤖 Machine Learning
+## Machine Learning
 
 📄 `ml/phase3_ML.ipynb`
 
@@ -120,7 +120,7 @@ Les notebooks Jupyter permettent une montée progressive en complexité :
 
 ***
 
-## 🖥️ Application Streamlit – Data Product
+## Application Streamlit – Data Product
 
 L’application Streamlit constitue la **couche de restitution finale**.
 
@@ -147,7 +147,7 @@ streamlit run streamlit/streamlit_app.py
 
 ***
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 
 *   **Snowflake** : stockage & transformation des données
 *   **SQL** : ingestion et nettoyage
@@ -158,7 +158,7 @@ streamlit run streamlit/streamlit_app.py
 
 ***
 
-## ✅ Points forts du projet
+## Points forts du projet
 
 *   Cas d’usage métier réaliste
 *   Architecture data claire (Bronze / Silver / Analytics)
